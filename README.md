@@ -11,29 +11,26 @@ and the Flutter guide for
 [developing packages and plugins](https://flutter.dev/developing-packages). 
 -->
 
-TODO: Put a short description of the package here that helps potential users
-know whether this package might be useful for them.
+This package is under development
 
 ## Features
 
-TODO: List what your package can do. Maybe include images, gifs, or videos.
+Gradient
 
 ## Getting started
 
-TODO: List prerequisites and provide or point to information on how to
-start using the package.
+Gradient widget color
 
 ## Usage
 
-TODO: Include short and useful examples for package users. Add longer examples
-to `/example` folder. 
+You can pass any child to GradientMask
 
 ```dart
-const like = 'sample';
+GradientMask(
+    child: Text("Hello World!!"),
+),
 ```
 
 ## Additional information
 
-TODO: Tell users more about the package: where to find more information, how to 
-contribute to the package, how to file issues, what response they can expect 
-from the package authors, and more.
+This package is under development
