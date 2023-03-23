@@ -15,7 +15,7 @@ This package is under development
 
 ## Features
 
-Gradient
+Gradient Mask
 
 ## Getting started
 
@@ -23,13 +23,15 @@ Gradient widget color
 
 ## Usage
 
-You can pass any child to GradientMask
+You can pass any widget as a child to GradientMask
 
 ```dart
 GradientMask(
     child: Text("Hello World!!"),
 ),
 ```
+
+![Example](https://raw.githubusercontent.com/da-nish/gradient_mask/master/example.png)
 
 ## Additional information
 
